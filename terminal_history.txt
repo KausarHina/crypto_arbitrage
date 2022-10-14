@@ -1,0 +1,50 @@
+ 1071  cd Docu*
+ 1072  ls -l
+ 1073  cd Boo*
+ 1074  ls -l
+ 1075  lab
+ 1076  cd 
+ 1077  cd 
+ 1078  cd Doc*
+ 1079  ls -ltr
+ 1080  cd B*
+ 1081  ls -ltr
+ 1082  cd GitLab
+ 1083  ls -ltr
+ 1084  cd UCB*
+ 1085  ls -ltr
+ 1086  cd Ins*
+ 1087  git status
+ 1088  ls -ltr
+ 1089  git restore Pandas_extra_demo.ipynb
+ 1090  cd ..
+ 1091  git pull
+ 1092  cd Instructor-Extra-Resources/.ipynb_checkpoints
+ 1093  ls -ltr
+ 1094  rm *
+ 1095  ls -ltr
+ 1096  cd ..
+ 1097  cd ..
+ 1098  ls -ltr
+ 1099  git pull
+ 1100  git status
+ 1101  git pull
+ 1102  ls -ltr
+ 1103  cd
+ 1104  cd De*
+ 1105  ls -ltr
+ 1106  cd *repo
+ 1107  ls -ltr
+ 1108  cd cry*
+ 1109  ls -ltr
+ 1110  code .
+ 1111  history -50 -1 > terminal_history.txt
+ 1112  ls -ltr
+ 1113  cat ter*.txt
+ 1114  ls -ltr
+ 1115  rm *.txt
+ 1116  git status
+ 1117  git add .
+ 1118  git commit -m "modified readme and added analysis answers"
+ 1119  git status
+ 1120  git push
